@@ -4,7 +4,7 @@
   "scripts": {
     "build": "tsc",
     "dev": "ts-node",
-    "start": "node dist/Graph/tasks/Isomorfism.js"
+    "start": "node dist/Graph/tasks/Salesman.js"
   },
   "devDependencies": {
     "@types/node": "^22.13.10",
